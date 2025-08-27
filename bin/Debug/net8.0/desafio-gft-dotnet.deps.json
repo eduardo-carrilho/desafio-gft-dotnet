@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "desafio-gft-dotnet/1.0.0": {
+        "runtime": {
+          "desafio-gft-dotnet.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "desafio-gft-dotnet/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Cursos\Curso DIO Bootcamp GFT\Desafio Técnico\desafio-gft-dotnet\bin\Debug\net8.0\desafio-gft-dotnet.exe
+C:\Cursos\Curso DIO Bootcamp GFT\Desafio Técnico\desafio-gft-dotnet\bin\Debug\net8.0\desafio-gft-dotnet.deps.json
+C:\Cursos\Curso DIO Bootcamp GFT\Desafio Técnico\desafio-gft-dotnet\bin\Debug\net8.0\desafio-gft-dotnet.runtimeconfig.json
+C:\Cursos\Curso DIO Bootcamp GFT\Desafio Técnico\desafio-gft-dotnet\bin\Debug\net8.0\desafio-gft-dotnet.dll
+C:\Cursos\Curso DIO Bootcamp GFT\Desafio Técnico\desafio-gft-dotnet\bin\Debug\net8.0\desafio-gft-dotnet.pdb
+C:\Cursos\Curso DIO Bootcamp GFT\Desafio Técnico\desafio-gft-dotnet\obj\Debug\net8.0\desafio-gft-dotnet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cursos\Curso DIO Bootcamp GFT\Desafio Técnico\desafio-gft-dotnet\obj\Debug\net8.0\desafio-gft-dotnet.AssemblyInfoInputs.cache
+C:\Cursos\Curso DIO Bootcamp GFT\Desafio Técnico\desafio-gft-dotnet\obj\Debug\net8.0\desafio-gft-dotnet.AssemblyInfo.cs
+C:\Cursos\Curso DIO Bootcamp GFT\Desafio Técnico\desafio-gft-dotnet\obj\Debug\net8.0\desafio-gft-dotnet.csproj.CoreCompileInputs.cache
+C:\Cursos\Curso DIO Bootcamp GFT\Desafio Técnico\desafio-gft-dotnet\obj\Debug\net8.0\desafio-gft-dotnet.sourcelink.json
+C:\Cursos\Curso DIO Bootcamp GFT\Desafio Técnico\desafio-gft-dotnet\obj\Debug\net8.0\desafio-gft-dotnet.dll
+C:\Cursos\Curso DIO Bootcamp GFT\Desafio Técnico\desafio-gft-dotnet\obj\Debug\net8.0\refint\desafio-gft-dotnet.dll
+C:\Cursos\Curso DIO Bootcamp GFT\Desafio Técnico\desafio-gft-dotnet\obj\Debug\net8.0\desafio-gft-dotnet.pdb
+C:\Cursos\Curso DIO Bootcamp GFT\Desafio Técnico\desafio-gft-dotnet\obj\Debug\net8.0\desafio-gft-dotnet.genruntimeconfig.cache
+C:\Cursos\Curso DIO Bootcamp GFT\Desafio Técnico\desafio-gft-dotnet\obj\Debug\net8.0\ref\desafio-gft-dotnet.dll
