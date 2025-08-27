@@ -13,10 +13,15 @@ Não permita que o saldo seja alterado diretamente de fora da classe.
 
 Exemplo de saída no console:
 ruby
+
 CopiarEditar
+
 Conta criada para Maria.
+
 Depositando R$ 1000.
+
 Sacando R$ 500.
+
 Saldo atual: R$ 500.
 
 ## Desafio 2
@@ -29,15 +34,22 @@ próprios, como portas para Carro e cilindradas para Moto.
 No final, instancie objetos de Carro e Moto e mostre suas informações usando ExibirInfo().
 
 Exemplo de saída no console:
+
 yaml
+
 CopiarEditar
+
 Carro: Ford Ka, 2020, 4 portas.
+
 Moto: Yamaha MT-03, 2022, 321 cc.
+
 
 ## Desafio 3
 
 Desafio 3 (Uso de ChatGPT / LLM)
 Tema: Saber pedir ajuda
+
 “Você está com um problema onde precisa ordenar uma lista de objetos Pessoa por idade
 usando C# (ou a linguagem que você preferir).
+
 Como você formularia essa pergunta para o ChatGPT?”
