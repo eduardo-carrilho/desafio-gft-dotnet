@@ -1,0 +1,2 @@
+Prompt:
+"Estou fazendo um projeto em C# na versão 8.0 do .NET, em que preciso lidar com classes chamadas Pessoa que possuem idade como uma de suas propriedades. Atualmente estou com dificuldades em ordenar pela idade uma lista feita desses objetos, como que posso fazer essa ordenação? De exemplos de códigos sem a necessidade de criar novas classes."

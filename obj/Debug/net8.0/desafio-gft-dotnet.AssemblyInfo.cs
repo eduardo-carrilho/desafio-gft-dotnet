@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("desafio-gft-dotnet")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ec0fc551619b86bde2c7b9e742681e487ba1517f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+83cbd821f56137ee9b5a51d5937a5c5f909cd827")]
 [assembly: System.Reflection.AssemblyProductAttribute("desafio-gft-dotnet")]
 [assembly: System.Reflection.AssemblyTitleAttribute("desafio-gft-dotnet")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
